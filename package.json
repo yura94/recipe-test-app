@@ -1,7 +1,7 @@
 {
   "name": "meal-recipes",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://yura94.github.io/recipe-test-app",
   "dependencies": {
     "@emotion/react": "^11.13.5",
